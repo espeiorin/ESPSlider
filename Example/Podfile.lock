@@ -1,0 +1,14 @@
+PODS:
+  - ESPSlider (1.0.0)
+
+DEPENDENCIES:
+  - ESPSlider (from `../`)
+
+EXTERNAL SOURCES:
+  ESPSlider:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ESPSlider: d2c639286ba21f486cb1d1ccda23c76c6bf8359b
+
+COCOAPODS: 0.32.1

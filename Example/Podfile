@@ -1,0 +1,4 @@
+platform :ios, '5.0'
+
+pod 'ESPSlider', :path => '../'
+#pod 'ESPSlider', :git => 'https://github.com/xorna/ESPSlider.git'
