@@ -8,6 +8,8 @@
 
 To run the example project; clone the repo, and run `pod install` from the Example directory first.
 
+See also https://github.com/xorna/ESPSlider/blob/master/HOWTO.md
+
 ## Requirements
 
 ## Installation
@@ -19,7 +21,7 @@ it simply add the following line to your Podfile:
 
 ## Author
 
-André Gustavo Espeiorin, andre.espeiorin@gmail.com
+André Gustavo Espeiorin, andre.espeiorin@gmail.com
 
 ## License
 
