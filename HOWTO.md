@@ -3,6 +3,8 @@ ESPSlider
 
 ESPSlider is a custom UIView that works like a rating UISlider, it changes values by touching or by draging inside.
 
+See it in action: https://vimeo.com/92618816
+
 To install you can basically drag .h and .m files to your project, import and configure or you can simple add to your Podfile
 
 ```ruby
