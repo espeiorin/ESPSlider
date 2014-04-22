@@ -17,13 +17,13 @@ ESPSlider *slider = [[ESPSlider alloc] initWithFrame:CGRectMake(20.0, 20.0, 300.
 ```
 Or you can add a UIView to your Storyboard/xib, set ClassName to ESPSlider and add an IBOutlet to configure the component.
 
-![Setting ClassName](https://raw.githubusercontent.com/xorna/ESPSlider/master/image1.png)
+![Setting ClassName](https://dl.dropboxusercontent.com/s/4gwg8ajtm0tdtle/image1.png?dl=1&token_hash=AAE3DPdcKsZoU389sug4_UUjq6sOXT-ZMhMluw_RsoaBSA)
 
 ```objc
 @property (nonatomic, strong) IBOutlet ESPSlider *slider;
 ```
 
-![Setting Outlet](https://raw.githubusercontent.com/xorna/ESPSlider/master/image2.png)
+![Setting Outlet](https://dl.dropboxusercontent.com/s/rvd1nrb5bnppqwo/image2.png?token_hash=AAGhcV4rGh4azi930HFKh61m5arYNu6RvEjSJoBXKw6KNA)
 
 After that, you only need to do is to configure component:
 
