@@ -1,7 +1,7 @@
 ESPSlider
 =========
 
-ESPSlider is a custom UIView that works like a UISlider, but it works like a rating slider, it changes values by touching or by draging inside.
+ESPSlider is a custom UIView that works like a rating UISlider, it changes values by touching or by draging inside.
 
 To install you can basically drag .h and .m files to your project, import and configure or you can simple add to your Podfile
 
@@ -15,9 +15,9 @@ For use it, you can simply instantiate ESPSlider programatically:
 ESPSlider *slider = [[ESPSlider alloc] initWithFrame:CGRectMake(20.0, 20.0, 300.0, 30.0)];
 [self.view addSubview:slider];
 ```
-Or you can add a UIView to your Storyboard/xib, set ClassName to ESPSlider and add an IBOutlet to configure the component.
+Or you can add a UIView to your Storyboard/xib, set Custom Class to ESPSlider and add an IBOutlet to configure the component.
 
-![Setting ClassName](https://dl.dropboxusercontent.com/s/4gwg8ajtm0tdtle/image1.png?dl=1&token_hash=AAE3DPdcKsZoU389sug4_UUjq6sOXT-ZMhMluw_RsoaBSA)
+![Setting Custom Class](https://dl.dropboxusercontent.com/s/4gwg8ajtm0tdtle/image1.png?dl=1&token_hash=AAE3DPdcKsZoU389sug4_UUjq6sOXT-ZMhMluw_RsoaBSA)
 
 ```objc
 @property (nonatomic, strong) IBOutlet ESPSlider *slider;
