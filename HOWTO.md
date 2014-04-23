@@ -34,7 +34,7 @@ slider.minimumSize = CGSizeMake(20.0, 30.0);
 [slider setImage:[UIImage imageNamed:@"normal"] forState:ESPSliderStateNormal];
 [slider setImage:[UIImage imageNamed:@"selected"] forState:ESPSliderStateSelected];
 slider.minimumValue = 2;
-slider.maximumValue =
+slider.maximumValue = 7;
 ```
 And set the value change block:
 
