@@ -8,7 +8,7 @@ See it in action: https://vimeo.com/92618816
 To install you can basically drag .h and .m files to your project, import and configure or you can simple add to your Podfile
 
 ```ruby
-pod 'ESPSlider', '~> 1.0.0'
+pod 'ESPSlider', '~> 1.0'
 ```
 
 For use it, you can simply instantiate ESPSlider programatically:
